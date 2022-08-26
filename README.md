@@ -1,24 +1,39 @@
-# imobiliaria_front
+### Dependencies
 
-## Project setup
+You will need to run this app:
+- `yarn` (https://yarnpkg.com/)
+
+### Installing
+
 ```
-npm install
+yarn add
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and Running
+
 ```
-npm run serve
+yarn run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and build for production
+
 ```
-npm run build
+yarn run build
+```
+
+### Run tests
+```
+yarn run test
 ```
 
 ### Lints and fixes files
+
 ```
-npm run lint
+yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Run your unit tests
+
+```
+yarn run test:unit
+```
